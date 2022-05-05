@@ -14,7 +14,7 @@
 		<connection>scm:git:git@github.com:AntonMishyn/mavenPlugin.git</connection>
 		<developerConnection>scm:git:git@github.com:AntonMishyn/mavenPlugin.git</developerConnection>
 		<url>https://github.com/AntonMishyn/mavenPlugin</url>
-		<tag>${version}</tag>
+		<tag>0.3.0</tag>
 	</scm>
 
 	<build>
